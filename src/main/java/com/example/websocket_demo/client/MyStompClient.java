@@ -6,4 +6,6 @@ public class MyStompClient {
     private StompSession session;
     private String username;
     //hi again
+
+    //Mein Fetter alter SChwanz ist auch schon hart geworden!
 }
